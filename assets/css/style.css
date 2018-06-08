@@ -1,0 +1,88 @@
+body {
+    background-size: 900px 600px;
+}
+
+.logo {
+    height: 50px;
+    width: 330px;
+    background-color: brown;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 32px;
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding-top: 15px;
+}
+
+.instructions {
+    height: 300px;
+    width: 300px;
+    background-color: tan;
+    display: table-cell;
+    font-size: 17px;
+    color: white;
+    padding: 30px;
+    float: left;
+    margin-top: 10px;
+    margin-right: 80%;
+    margin-left: 10px;
+}
+
+.numBox {
+    height: 75px;
+    width: 190px;
+    background-color: rgb(5, 104, 18);
+    display: table-cell;
+    color: white;
+    padding: 15px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.wins-losses {
+    height: 75px;
+    width: 100px;
+    background-color: lightblue;
+    display: table-cell;
+    color: white;
+    padding: 15px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 70%;
+}
+
+.crystals {
+    background-color: brown;
+    width: 80px;
+    height: 80px;
+    float: left;
+    padding: 10px;
+    margin: 10px;
+}
+
+.your-score {
+    height: 20px;
+    width: 200px;
+    padding: 10px;
+    background-color: teal;
+    color: white;
+    float: left;
+    font-size: 18px;
+    margin-right: 70%;
+    margin-left: 10px;
+    
+}
+
+.user-total {
+    height: 100px;
+    width: 220px;
+    background-color: teal;
+    color: white;
+    margin: 10px;
+    float: left;
+}
